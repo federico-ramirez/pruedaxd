@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "20ZfoP9op3zirPChFwTwziuJjK/oo/ZddEGMAFiqt6tujV1Z6VCTgmVB3qOW+rssnkghdNtwkMbxty/u+hroQg==",
+  "dgSpecHash": "tY/520MNkjqM1k7m4GrTQj+qPBZhPIFAe4HQiQA5NubAAxPWL0vexKPZqsu3jIAvrZ+krTbfNE/XMFwCTpPwPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\feder\\OneDrive\\Documentos\\UCA\\Ciclo I - 2021\\Programación Orientada a Objetos\\Proyecto-POO\\Proyecto-POO\\Proyecto-POO\\Proyecto-POO.csproj",
+  "projectFilePath": "C:\\Users\\feder\\OneDrive\\Documentos\\UCA\\Ciclo I - 2021\\pruedaxd\\Proyecto-POO\\Proyecto-POO\\Proyecto-POO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feder\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\feder\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
