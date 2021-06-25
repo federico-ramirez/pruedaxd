@@ -197,8 +197,8 @@ namespace Proyecto_POO
             DateTime date = DateTime.Today;
             var minYear = (date.Year - 100);
             var maxYear = (date.Year - 18);
-            var minDate = (date.Day + "/" + date.Month + "/" + minYear).ToString();
-            var maxDate = "31/12/" + maxYear.ToString();
+            var minDate = (minYear  + "/" + date.Month + "/" + date.Day).ToString();
+            var maxDate = maxYear.ToString() + "/12/31";
             dtpBirthdate.MinDate = Convert.ToDateTime(minDate);
             dtpBirthdate.MaxDate = Convert.ToDateTime(maxDate);
         }

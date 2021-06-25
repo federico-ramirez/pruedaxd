@@ -382,7 +382,7 @@ namespace Proyecto_POO
             // dtpBirthdate
             // 
             this.dtpBirthdate.CalendarFont = new System.Drawing.Font("Lucida Sans", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.dtpBirthdate.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpBirthdate.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtpBirthdate.Location = new System.Drawing.Point(273, 338);
             this.dtpBirthdate.MinDate = new System.DateTime(1921, 1, 1, 0, 0, 0, 0);
             this.dtpBirthdate.Name = "dtpBirthdate";
